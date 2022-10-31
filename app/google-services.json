@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671434898628",
+    "firebase_url": "https://grapechat-8b908-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "grapechat-8b908",
+    "storage_bucket": "grapechat-8b908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671434898628:android:0c8043af4ccf733d355d91",
+        "android_client_info": {
+          "package_name": "com.example.grapechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671434898628-f6cg2ijd2khm6e5iupovm04jl377ccr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FxH1_gRReID9v7dK6vTMpPAqKVezlic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671434898628-f6cg2ijd2khm6e5iupovm04jl377ccr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
