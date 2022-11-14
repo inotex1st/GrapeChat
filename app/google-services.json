@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "671434898628-so7cm6qcatsvvrjhol92j2uj1m0c9cfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grapechat",
+            "certificate_hash": "cac0eb238ed88a8d512024b27eca343120b3c514"
+          }
+        },
+        {
           "client_id": "671434898628-f6cg2ijd2khm6e5iupovm04jl377ccr1.apps.googleusercontent.com",
           "client_type": 3
         }
